@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/04 17:14:15.000.964,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 17:15:14.000.143,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-barnsten-20180607-Lyon\08-iot-beacon\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/06/04 17:15:14.000.143,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-barnsten-20180607-Lyon\08-iot-beacon\Unit1.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2018/06/04 17:15:15.000.348,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-barnsten-20180607-Lyon\08-iot-beacon\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="_iossimulator_ED562A0F-3866-4B32-9BE2-4032101B0672"/>
+		<NoProfile Android="FUH7N16415013165"/>
+	</ActiveMobileDevice>
+</BorlandProject>
